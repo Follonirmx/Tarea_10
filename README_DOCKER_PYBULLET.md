@@ -154,17 +154,8 @@ Aparecerá la interfaz gráfica de PyBullet mostrando el modelo bípedo.
 
 ---
 
-## ✨ 10. Notas adicionales
-
-- Si trabajas en **WSL2 (Windows)**, debes configurar el servidor gráfico (como **VcXsrv** o **Xming**).
-- Si Docker lanza un error de permisos, ejecuta:
-  ```bash
-  sudo usermod -aG docker $USER
-  ```
-  Luego cierra sesión y vuelve a entrar.
-
 ---
 
 **Autor:** _Jonathan David Díaz Vargas_  
-**Proyecto:** Simulaciones PyBullet — Dockerización educativa  
+ 
 **Año:** 2025
